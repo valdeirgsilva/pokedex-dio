@@ -5,3 +5,10 @@ class Pokemon {
     types = [];
     photo;
 }
+
+class AdvancedDetails {
+    height;
+    weight;
+    abilities = [];
+    baseStats = {};
+}
